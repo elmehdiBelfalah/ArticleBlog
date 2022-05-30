@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "tittle": "Hello",
+      "body": "Hello blablablabla",
+      "author": "Mehdi",
+      "id": 4
+    },
+    {
+      "tittle": "Green pash",
+      "body": "green pash blablablabl bla",
+      "author": "Mehdi",
+      "id": 8
+    }
+  ]
+}
