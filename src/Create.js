@@ -15,7 +15,7 @@ const Create = () => {
         headers:{"Content-Type":"Application/json"},
         body: JSON.stringify(blog)
     }).then(()=>{
-            console.log('blod added')
+            console.log('blog added')
             setIsPanding(false);
             setAuthor('');
             setBody('');
